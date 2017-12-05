@@ -64,3 +64,6 @@ gem 'pry-rails'
 gem 'better_errors', group: :development
 gem 'binding_of_caller'
 gem 'figaro'
+gem 'acts_as_list'
+gem 'webpacker', '~> 3.0'
+
