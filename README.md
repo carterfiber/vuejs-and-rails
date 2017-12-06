@@ -1,25 +1,12 @@
-# README
+This is a simple app that works like the trello app and includes basic functionality, such as creating topics and subtopics associated with those categories. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It uses:
+-Ruby on Rails
+-Bootstrap
+-Ajax
+-VueJs
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# vuejs-and-rails app
+TODO:
+-Integrate authentication
+-Add user roles
+-Expand VueJs touchpoints in the app
